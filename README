@@ -1,0 +1,7 @@
+Software installation
+---------------------
+
+mkdir _build
+cd _build
+cmake CMAKE_INSTALL_PREFIX=path_to_install_directory path_to_src_diretory 
+make && make install
